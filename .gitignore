@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/*
+!data/README.md
+ApDev.csv
+*.csv
+*.mp4
+*.pl3container
+BAR-ATH*_atd.txt
+BAR-ATH*_atd.xml
+BAR-ATH*_smart_tagging.xml
